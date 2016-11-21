@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		<View id="view" width="Ti.UI.FILL" height="Ti.UI.SIZE" top="20" />
+		<Label id="resultado" width="Ti.UI.FILL" height="Ti.UI.SIZE" top="20" />
+	</Window>
+</Alloy>

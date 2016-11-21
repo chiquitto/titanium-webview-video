@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container" layout="vertical" backgroundColor="white">
+		<Button onClick="webview" title="Web View" color="black" top="40" />
+		<Button onClick="videoplayer" title="Video Player" color="black" />
+	</Window>
+</Alloy>

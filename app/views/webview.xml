@@ -1,0 +1,5 @@
+<Alloy>
+    <Window id="win" backgroundColor="white">
+        <WebView id="webview" url="http://chiquitto.com.br/sambatech.php?m=56b5b9f0220f0883d03c275d17c86025" width="Titanium.UI.FILL" height="200" />
+    </Window>
+</Alloy>
